@@ -8,6 +8,8 @@ Welcome to the Landing Page project! This is a simple and visually appealing lan
 
 ## Preview
 
+https://github.com/user-attachments/assets/5483b677-b5d8-493e-a3d7-e761ef38a906
+
 ## Features
 - A clean, responsive landing page layout
 - Modern design with a focus on user experience
