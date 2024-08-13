@@ -90,3 +90,6 @@ This project is deployed on Firebase. Here are the steps to deploy it on Firebas
 
 ## Firebase Links
 Below are the the links for the hosted website.
+
+- https://responsive-landing-page-917b0.web.app
+- https://responsive-landing-page-917b0.firebaseapp.com/
